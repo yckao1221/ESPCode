@@ -41,11 +41,10 @@ The smartphone must be connected to the same wifi network as the chip and know i
 
 ## Build your own wifi car
 
-ESP32-CAM / ESP32 DevKit / ESP8266
-L9110s motor driver or L293D/L298N
-USB PowerBank or other Power source such as 18650x2.
-
-[Car Kit](https://shopee.tw/%E9%8B%81%E5%90%88%E9%87%91%E5%B0%8F%E8%BB%8A-%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%B0%8F%E8%BB%8A-%E6%99%BA%E8%83%BD%E5%B0%8F%E8%BB%8A%E5%BA%95%E7%9B%A4%E5%90%88%E9%87%91%E5%BA%95%E7%9B%A4-2%E8%BC%AA%E5%B0%8F%E8%BB%8ADIY%E6%96%B0%E6%AC%BEA30-i.59477120.3757226429)
+* ESP32-CAM / ESP32 DevKit / ESP8266
+* L9110s motor driver or L293D/L298N
+* USB PowerBank or other Power source such as 18650x2.
+* [Car Kit](https://shopee.tw/%E9%8B%81%E5%90%88%E9%87%91%E5%B0%8F%E8%BB%8A-%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%B0%8F%E8%BB%8A-%E6%99%BA%E8%83%BD%E5%B0%8F%E8%BB%8A%E5%BA%95%E7%9B%A4%E5%90%88%E9%87%91%E5%BA%95%E7%9B%A4-2%E8%BC%AA%E5%B0%8F%E8%BB%8ADIY%E6%96%B0%E6%AC%BEA30-i.59477120.3757226429)
 <p align="center">
 <img src="docs/carkit.png" width="450" >
 </p>
