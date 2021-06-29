@@ -63,9 +63,12 @@ To control RC car with Bluetooth, you must pair the car with it's Bluetooth name
 The defaults commands sent are:
 
 Live Camera URL : (port = http port(80) +1)
+
 ```
 CAM URL: http://192.168.4.1:81/stream
 ```
+
+HTTP Command
 
 ```
 GET - http://192.168.4.1:80/state?cmd=F (forward)
@@ -76,11 +79,14 @@ GET - http://192.168.4.1:80/state?cmd=S (stop)
 ```
 
 Bluetooth Serial Comand
-cmd 'L' : MotorLeft();
-cmd 'R' : MotorRight();
-cmd 'F' : MotorUp();
-cmd 'B' : MotorDown();
-cmd 'X' : MotorStop();
+
+```
+cmd 'L' : MotorLeft()  (Left)
+cmd 'R' : MotorRight() (Right)
+cmd 'F' : MotorUp()    (Forward)
+cmd 'B' : MotorDown()  (Backword)
+cmd 'X' : MotorStop()  (Stop)
+```
 
 
 __Android__:
