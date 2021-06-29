@@ -109,6 +109,9 @@ __Android__:
       height="80">](https://play.google.com/store/apps/details?id=com.ieeelab.bluetoothrc)
 
 
-## Preview
+## ESP32-CAM Reference design
 
+<p align="center">
+<img src="docs/cardesign.png" width="800" >
+</p>
 
