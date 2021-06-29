@@ -27,6 +27,16 @@ ESP8266 Car (w/o CAM & Bluetooth)
 * develop the Bluetooth command
 * develop the mobile application
 
+## Youtube Video
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OzC1y5DCzQk/0.jpg)](https://www.youtube.com/watch?v=OzC1y5DCzQk)
+
+## ESP WiFi/Bluetooth RC CAM CAR
+
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"
+      alt="Download from Google Play"
+      height="80">](https://play.google.com/store/apps/details?id=com.ieeelab.bluetoothrc)
+
 ## How it works
 
 We are using HTTP protocol and Bluetooth Serial port command.
@@ -99,13 +109,6 @@ __Android__:
   <img width="216px" height="384px" src="ESP32_CAM_Car_GPIO/2021-06-25_04.png">
   <img width="216px" height="384px" src="ESP32_CAM_Car_GPIO/2021-06-25_05.png">
 </p>
-
-
-## ESP WiFi/Bluetooth RC CAM CAR
-
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"
-      alt="Download from Google Play"
-      height="80">](https://play.google.com/store/apps/details?id=com.ieeelab.bluetoothrc)
 
 
 ## ESP32-CAM Reference design
