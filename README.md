@@ -31,7 +31,7 @@ ESP8266 Car (w/o CAM & Bluetooth)
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OzC1y5DCzQk/0.jpg)](https://www.youtube.com/watch?v=OzC1y5DCzQk)
 
-## ESP WiFi/Bluetooth RC CAM CAR
+## ESP WiFi/Bluetooth RC CAM CAR (Free No ADs)
 
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"
       alt="Download from Google Play"
@@ -54,12 +54,20 @@ The smartphone must be connected to the same wifi network as the chip and know i
 * ESP32-CAM / ESP32 DevKit / ESP8266
 * L9110s motor driver or L293D/L298N
 * USB PowerBank or other Power source such as 18650x2.
-* [Car Kit](https://shopee.tw/%E9%8B%81%E5%90%88%E9%87%91%E5%B0%8F%E8%BB%8A-%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%B0%8F%E8%BB%8A-%E6%99%BA%E8%83%BD%E5%B0%8F%E8%BB%8A%E5%BA%95%E7%9B%A4%E5%90%88%E9%87%91%E5%BA%95%E7%9B%A4-2%E8%BC%AA%E5%B0%8F%E8%BB%8ADIY%E6%96%B0%E6%AC%BEA30-i.59477120.3757226429)
+
+You cound find car kit to assemble your car such as.
+
+* [Car Kit#1](https://shopee.tw/%E9%8B%81%E5%90%88%E9%87%91%E5%B0%8F%E8%BB%8A-%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%B0%8F%E8%BB%8A-%E6%99%BA%E8%83%BD%E5%B0%8F%E8%BB%8A%E5%BA%95%E7%9B%A4%E5%90%88%E9%87%91%E5%BA%95%E7%9B%A4-2%E8%BC%AA%E5%B0%8F%E8%BB%8ADIY%E6%96%B0%E6%AC%BEA30-i.59477120.3757226429)
 <p align="center">
 <img src="docs/carkit.png" width="450" >
 </p>
 
-You can also find another [Car Kit](https://www.amazon.com/perseids-Chassis-Encoder-Wheels-Battery/dp/B07DNYQ3PX/ref=sr_1_21?dchild=1&keywords=WIFI+Smart+Robot+Car+With+NodeMCU&qid=1624955907&s=toys-and-games&sr=1-21)
+*[Car Kit#2](https://shopee.tw/-RWG-Arduino-%E8%87%AA%E8%B5%B0%E8%BB%8A-%E5%BE%AA%E8%B7%A1%E8%BB%8A-%E9%81%BF%E9%9A%9C%E8%BB%8A-%E5%B0%8F%E8%BB%8A%E5%BA%95%E7%9B%A4-i.14363185.2341583690)
+<p align="center">
+<img src="docs/carkit2.png" width="250" >
+</p>
+
+*[Amazon(Car Kit#3)](https://www.amazon.com/perseids-Chassis-Encoder-Wheels-Battery/dp/B07DNYQ3PX/ref=sr_1_21?dchild=1&keywords=WIFI+Smart+Robot+Car+With+NodeMCU&qid=1624955907&s=toys-and-games&sr=1-21)
 
 
 ## Android application settings for WiFi and Bluetooth Command
