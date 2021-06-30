@@ -1,9 +1,6 @@
 /**
- NodeMCU-32S, ESP32 support
- BlueTooth / WiFi RC Car 0.1 gausskao@
-
- 2021/03/28 changed from ESP8266WiFi.h to WiFi.h
- 2021/03/28 changed from ESP8266WebServer.h to WebServer.h
+ NodeMCU-32S, ESP32 support WiFi/Bluetooth w/o CAM, 
+ BlueTooth / WiFi RC Car 0.1 
  2021/04/18 added BlueTooth support.
  2021/04/18 Use ESP32 WRover Module, Partition size schemem : HUGE App.
  2021/04/18 Added OLED support. Display connected IP address.
