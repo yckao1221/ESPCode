@@ -86,6 +86,13 @@ Live Camera URL : (port = http port(80) +1)
 CAM URL: http://192.168.4.1:81/stream
 ```
 
+Besides Robot CAM Car URL, since it's WebView browser, you could assign any public IP CAM URL such as.
+
+<p align="center">
+  <img width="216px" height="384px" src="docs/ipcam01.png">
+  <img width="216px" height="384px" src="docs/ipcam02.png">
+</p>
+
 HTTP Command
 
 ```
