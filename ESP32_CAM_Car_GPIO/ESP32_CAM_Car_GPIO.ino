@@ -19,6 +19,10 @@
 #define BT_NAME "BT_CAMCAR_03"
 #endif
 
+/* Wifi Crdentials */
+String sta_ssid = "YOUR_SSID";     // set Wifi network you want to connect to
+String sta_password = "YOUR_PASSWORD";   // set password for Wifi network
+
 #ifdef ESP32_OLED
 #include <U8g2lib.h>
 // [2021/06/11] use IO 3/1 for SW SCL/SDA
@@ -96,9 +100,7 @@ static const unsigned char PROGMEM android[] = {
 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00,};
 #endif
 
-/* Wifi Crdentials */
-String sta_ssid = "MEDIA_LINK";     // set Wifi network you want to connect to
-String sta_password = "89124138af";   // set password for Wifi network
+
 
 /* define CAMERA_MODEL_AI_THINKER */
 #define PWDN_GPIO_NUM     32
